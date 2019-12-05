@@ -1,0 +1,50 @@
+.headerSection {
+    border-bottom: 5px solid #333;
+}
+
+.bodyBackground {
+    background-color: #ffffff;
+}
+
+.container {
+    width: 960px;
+}
+
+thead {
+    font-weight: bold;
+}
+
+tbody th {
+    height: 100px;
+}
+
+textarea {
+    max-height: 75px;
+    width: 100%;
+    border: none;
+}
+
+.save{
+    background-color: #7FDBFF;
+}
+
+img {
+    height: 25px;
+    width: 25px;
+    border-radius: 3px;
+}
+
+
+
+.tableColorBefore {
+    background-color: #FF851B;
+}
+
+.tableColorNow {
+    background-color: #01FF70;
+}
+
+.tableColorAfter {
+    background-color: #FFDC00;
+}
+
