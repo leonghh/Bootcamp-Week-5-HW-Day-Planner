@@ -8,4 +8,4 @@ site link: https://leonghh.github.io/Week-5-HW/.
 
 ### Screenshot
 
-![Screenshot](./assets/IMG/Capture.PNG)
+![Screenshot](./assets/img/Capture.PNG)
