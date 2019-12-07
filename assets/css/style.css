@@ -42,8 +42,6 @@ img {
     border-radius: 3px;
 }
 
-
-
 .tableColorBefore {
     background-color: #FF851B;
 }
@@ -55,4 +53,17 @@ img {
 .tableColorAfter {
     background-color: #FFDC00;
 }
+
+.button {
+    padding: 0px !important;
+}
+
+button {
+    background: none;
+    border: none;
+    height: 100px;
+    width: 100%;
+}
+
+
 
